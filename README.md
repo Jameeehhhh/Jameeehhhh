@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jameeehhhh
-- 👀 I’m interested in Programming, Gaming, Anime, Technology
+- 👀 I’m interested in Programming, Gaming, Anime, Technology and Cooking
 - 🌱 I’m currently studying Computing Science to further improve my skills
 - 💞️ I’m looking to collaborate on Python, JavaScript or Java projects :)
 - 📫 How to reach me:
